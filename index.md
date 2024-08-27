@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-- I love the two wonderful people teaching me CS193
+- I love the two wonderful TA's teaching me CS193
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
